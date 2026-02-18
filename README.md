@@ -202,8 +202,8 @@ def test_model(model, test_loader):
     plt.show()
 
     # Print classification report
-    print("Name:Arun S")
-    print("Register Number:212224230023")
+    print("Name:Ravivarman VV")
+    print("Register Number:212224240133")
     print("Classification Report:")
     print(classification_report(all_labels, all_preds, target_names=train_dataset.classes))
 ## Step 5: Predict on a Single Image and Display It

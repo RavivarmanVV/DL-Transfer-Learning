@@ -239,17 +239,18 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img width="1096" height="962" alt="image" src="https://github.com/user-attachments/assets/8a129b7c-eb46-45b7-8354-3e9ff84a9915" />
 
 ## Confusion Matrix
 
-Include confusion matrix here
+<img width="843" height="658" alt="image" src="https://github.com/user-attachments/assets/3663825e-f6fc-47d9-b482-8f63ea6785bc" />
 
 ## Classification Report
-Include classification report here
+<img width="694" height="279" alt="image" src="https://github.com/user-attachments/assets/29bec0c0-dd5b-445f-80f6-65a8d40364dc" />
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="757" height="564" alt="image" src="https://github.com/user-attachments/assets/c5dd03fc-4597-4c14-89f7-f54caaa8436a" />
+<img width="812" height="589" alt="image" src="https://github.com/user-attachments/assets/9159c2bd-7790-4709-a197-81d98df21464" />
 
 ## RESULT
-Include your result here
+Thus the python program to develop an image classification model using transfer learning with VGG19 architecture is executed successfully.

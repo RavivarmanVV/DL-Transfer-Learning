@@ -11,6 +11,9 @@ VGG19 is a convolutional neural network with 19 layers. It consists of multiple 
 <img width="407" height="109" alt="image" src="https://github.com/user-attachments/assets/007e567b-5ada-41b9-8caf-2170188befff" />
 
 
+## Theory
+
+Transfer learning is a technique in deep learning where a pre-trained model is reused to solve a new but related problem, reducing the need for large datasets and training time. In this experiment, the VGG19 model, pre-trained on ImageNet, is used for image classification. The convolutional layers extract general features like edges and patterns, while new fully connected layers are added for the specific dataset. This approach improves accuracy and avoids overfitting even with limited data. Thus, transfer learning with VGG19 enables efficient and effective image classification.
 
 
 ## Neural Network Model
